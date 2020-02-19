@@ -35,4 +35,4 @@ steps:
     pytest
   displayName: 'pytest'
 
-print("hello my dude")
+print("hello my dude"):
